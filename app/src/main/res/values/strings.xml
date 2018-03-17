@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">Ronald_1202150002_Modul4</string>
+    <string-array name="namaMhs">
+        <item>Halim</item>
+        <item>Afif</item>
+        <item>Husfi</item>
+        <item>Nursah</item>
+        <item>Firza</item>
+        <item>Aldy</item>
+        <item>Aryo</item>
+        <item>Dimas</item>
+        <item>Arkan</item>
+        <item>Fahmi</item>
+        <item>Shiddiq</item>
+        <item>Rinadhi</item>
+        <item>Ferdinand</item>
+        <item>Venanda</item>
+        <item>Lorenzo</item>
+        <item>Fit</item>
+        <item>Anggi</item>
+        <item>Priatna</item>
+
+    </string-array>
+</resources>
